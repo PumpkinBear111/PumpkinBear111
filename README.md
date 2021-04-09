@@ -7,3 +7,7 @@
   - My Discord Server: https://discord.gg/jJZvKpg
   - My CurseForge: https://authors.curseforge.com/members/pumpkinbear111
   - My very inactive Spigot page: https://www.spigotmc.org/members/pumpkinbear111.1035498/
+- 🖥️  My Mods/Plugins:
+  - (Spigot) Minecraft, but you only have one heart: www.spigotmc.org/resources/minecraft-but-you-only-have-one-heart.82583/
+  - (Spigot) Pumpkin Boss: www.spigotmc.org/resources/pumpkin-king-boss.85289/
+  - (Forge) Valentines Day Mod: www.curseforge.com/minecraft/mc-mods/valentines-day
