@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PumpkinBear111
-- 👀 I’m interested in Minecraft Modding
-- 🌱 I’m currently learning how to use FML and the Forge API
-- 💞️ I’m not currenting looking to collaborate on projects
+- 👀 I’m interested in Minecraft Modding and making Discord Bots.
+- 🌱 I’m currently learning about JDA and messing around in discord bots.
 - 📫 How to reach me:
   - My YouTube: youtube.com/pumpkinbear111
   - My Discord Server: https://discord.gg/jJZvKpg
