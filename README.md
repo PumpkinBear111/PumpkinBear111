@@ -1,21 +1,3 @@
-Hi I make random stuff a lot
-- Java
-   - JDA (Java Discord Library)
-   - Minecraft
-      - Forge
-      - Spigot
-- Python
-   - Random projects
-   - discord.py
-   - pygame
-- Unity
-- HTML, CSS
-- Javascript
-   - Game Dev (via HTML canvas)
-   - Assorted Stuff
+Hi, I'm Brilla-
 
-Most of my projects are in private repos
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PumpkinBear111&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PumpkinBear111&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+I'm new to github, but I like doing python and javascript stuff. I'm also being taught html and svelte.
