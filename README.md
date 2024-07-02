@@ -4,6 +4,7 @@ Hi I make random stuff a lot
    - Minecraft
       - Forge
       - Spigot
+   - WPILib
 - Python
    - Random projects
    - discord.py
@@ -13,9 +14,7 @@ Hi I make random stuff a lot
 - Javascript
    - Game Dev (via HTML canvas)
    - Assorted Stuff
+   - Vue
+   - Nuxt
 
 Most of my projects are in private repos
-
-Currently Learning (as of Dec 17, 2023):
-- Vue.js and Nuxt.js
-- WPILib (Java)
